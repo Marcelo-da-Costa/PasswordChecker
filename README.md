@@ -14,6 +14,7 @@ PasswordChecker é uma ferramenta simples e eficaz para verificar a força de se
 - .gitignore: Exclusões de controle de versão
 
 🔧 Como usar
+
 Basta executar o script no terminal e inserir uma senha para verificar se ela é considerada fraca. Ideal para educar usuários sobre boas práticas de segurança digital.
 
 📜 Licença
