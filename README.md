@@ -1,0 +1,2 @@
+# PasswordChecker
+Verificar senhas fracas
